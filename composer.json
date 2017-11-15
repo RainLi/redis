@@ -2,7 +2,6 @@
   "name": "rainli/redis",
   "type": "yii2-chuan",
   "description": "",
-  "minimum-stability": "dev",
   "keywords": [
     "yii2"
   ],
